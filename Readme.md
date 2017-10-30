@@ -1,6 +1,8 @@
 Josephus Problem
 ================
 
+[![Build Status](https://travis-ci.org/ashm2/josephus_problem.svg?branch=master)](https://travis-ci.org/ashm2/josephus_problem)
+
 This app takes in 2 parameters: the number of people in the circle (n) and the step rate (k).
 For example, if k is the step rate, then you skip k-1 people and eliminate the kth person.
 The output of the program shows the place(index) to stand in the circle
